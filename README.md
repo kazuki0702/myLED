@@ -17,6 +17,7 @@ $ echo 2 > /dev/myled0
 $ echo 3 > /dev/myled0
 ```
 ## YouTube  
+https://youtu.be/EmvxJKSf6RI  
 
 ## LICENSE  
 This repository is licensed under the GPLv3 license, see COPYING.
